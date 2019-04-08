@@ -4,6 +4,10 @@ Github Battle lets you compare how different Github users stack up against each 
 
 You can also browse Github's current most popular repos for different languages.
 
+## Demo
+
+[Demo](https://github-battle-d3e6e.firebaseapp.com/)
+
 ## Installation
 
 Clone repo:
